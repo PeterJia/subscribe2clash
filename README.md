@@ -28,6 +28,11 @@ Clash配置转换，默认自动获取[ACL4SSR](https://github.com/ACL4SSR/ACL4S
 
 ## 启动服务
 
+screen -R s2c
+DIR:
+104: /home/wwwroot
+149: /usr
+
 ### 二进制
 
 - [release](https://github.com/whoisix/subscribe2clash/releases)下载对应的版本
